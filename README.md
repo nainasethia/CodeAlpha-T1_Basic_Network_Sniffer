@@ -105,3 +105,10 @@ Network sniffing plays a crucial role in both security and system management:
 This project demonstrates the successful development of a basic packet-sniffing tool on a Windows 11 system using Python and Scapy. By integrating the Npcap driver, the tool captures live network data, identifies key protocols, and displays payload information in real time.
 
 The project highlights the importance of packet-level monitoring in cybersecurity, emphasizing how visibility into network traffic enables organizations to detect vulnerabilities, prevent data exposure, and respond effectively to potential threats.
+
+---
+
+## 📌 Project By
+
+**Naina Sethia**  
+CodeAlpha Cybersecurity Intern
